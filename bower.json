@@ -1,0 +1,20 @@
+{
+  "name": "tuts-canvas",
+  "description": "EaselJS canvas practice work",
+  "main": "index.html",
+  "authors": [
+    "Nathaniel I Meyer"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "easeljs": "*"
+  }
+}
